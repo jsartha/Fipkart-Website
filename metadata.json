@@ -1,0 +1,6 @@
+{
+  "name": "Flipkart - Online Shopping Marketplace",
+  "description": "Authentic Flipkart e-commerce web application with product search & filters, deals of the day, Flipkart Assured badge, SuperCoins reward zone, interactive cart, multi-step checkout, order tracking, and seller hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
